@@ -8,7 +8,7 @@ The purpose of this project was to build the back end for an e-commerce site by 
 * [Questions](#questions)
 
 ## Usage 
-The e-commerce backend can be found via Git Hub repo [URL](https://github.com/AlizaSharma/e-commerce-backend). 
+The e-commerce backend walkthrough can be found via [URL](https://drive.google.com/file/d/1Q5kZCf5J9N5VXMRZneP4911RSorvIrj7/view?usp=drive_link). 
 
 See example below of expected outcome:
 
